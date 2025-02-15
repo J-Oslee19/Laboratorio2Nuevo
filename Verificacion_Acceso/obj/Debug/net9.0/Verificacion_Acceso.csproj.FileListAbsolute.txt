@@ -1,0 +1,14 @@
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\bin\Debug\net9.0\Verificacion_Acceso.exe
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\bin\Debug\net9.0\Verificacion_Acceso.deps.json
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\bin\Debug\net9.0\Verificacion_Acceso.runtimeconfig.json
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\bin\Debug\net9.0\Verificacion_Acceso.dll
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\bin\Debug\net9.0\Verificacion_Acceso.pdb
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\Verificacion_Acceso.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\Verificacion_Acceso.AssemblyInfoInputs.cache
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\Verificacion_Acceso.AssemblyInfo.cs
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\Verificacion_Acceso.csproj.CoreCompileInputs.cache
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\Verificacion_Acceso.dll
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\refint\Verificacion_Acceso.dll
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\Verificacion_Acceso.pdb
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\Verificacion_Acceso.genruntimeconfig.cache
+c:\Users\Jeferson\Desktop\C#\Verificacion_Acceso\obj\Debug\net9.0\ref\Verificacion_Acceso.dll

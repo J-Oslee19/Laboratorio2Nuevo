@@ -1,0 +1,14 @@
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\bin\Debug\net9.0\Dia_De_La_Semana.exe
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\bin\Debug\net9.0\Dia_De_La_Semana.deps.json
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\bin\Debug\net9.0\Dia_De_La_Semana.runtimeconfig.json
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\bin\Debug\net9.0\Dia_De_La_Semana.dll
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\bin\Debug\net9.0\Dia_De_La_Semana.pdb
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\Dia_De_La_Semana.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\Dia_De_La_Semana.AssemblyInfoInputs.cache
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\Dia_De_La_Semana.AssemblyInfo.cs
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\Dia_De_La_Semana.csproj.CoreCompileInputs.cache
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\Dia_De_La_Semana.dll
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\refint\Dia_De_La_Semana.dll
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\Dia_De_La_Semana.pdb
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\Dia_De_La_Semana.genruntimeconfig.cache
+c:\Users\Jeferson\Desktop\C#\Dia_De_La_Semana\obj\Debug\net9.0\ref\Dia_De_La_Semana.dll

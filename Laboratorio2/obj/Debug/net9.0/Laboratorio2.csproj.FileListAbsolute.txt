@@ -1,0 +1,14 @@
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\bin\Debug\net9.0\Laboratorio2.exe
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\bin\Debug\net9.0\Laboratorio2.deps.json
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\bin\Debug\net9.0\Laboratorio2.runtimeconfig.json
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\bin\Debug\net9.0\Laboratorio2.dll
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\bin\Debug\net9.0\Laboratorio2.pdb
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\Laboratorio2.AssemblyInfoInputs.cache
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\Laboratorio2.AssemblyInfo.cs
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\Laboratorio2.csproj.CoreCompileInputs.cache
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\Laboratorio2.dll
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\refint\Laboratorio2.dll
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\Laboratorio2.pdb
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\Laboratorio2.genruntimeconfig.cache
+c:\Users\Jeferson\Desktop\C#\Laboratorio2\obj\Debug\net9.0\ref\Laboratorio2.dll

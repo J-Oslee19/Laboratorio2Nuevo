@@ -1,0 +1,14 @@
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\bin\Debug\net9.0\Clasificacion_Edad.exe
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\bin\Debug\net9.0\Clasificacion_Edad.deps.json
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\bin\Debug\net9.0\Clasificacion_Edad.runtimeconfig.json
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\bin\Debug\net9.0\Clasificacion_Edad.dll
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\bin\Debug\net9.0\Clasificacion_Edad.pdb
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\Clasificacion_Edad.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\Clasificacion_Edad.AssemblyInfoInputs.cache
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\Clasificacion_Edad.AssemblyInfo.cs
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\Clasificacion_Edad.csproj.CoreCompileInputs.cache
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\Clasificacion_Edad.dll
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\refint\Clasificacion_Edad.dll
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\Clasificacion_Edad.pdb
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\Clasificacion_Edad.genruntimeconfig.cache
+c:\Users\Jeferson\Desktop\C#\Clasificacion_Edad\obj\Debug\net9.0\ref\Clasificacion_Edad.dll
